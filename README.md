@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Resido en Bilbao y,<br><br>- 🔭 Me he desarrollado profesionalmente en el sector industrial<br>- 🧮 Entusiasta de Scikit Learn ( Machine Learning), ingeniería de datos, y de su potencial.<br>- 📫 Me puedes escribirme a furtubia@hotmail.com
+<p align="left">Resido en Bilbao y,<br><br>- 🔭 Me he desarrollado profesionalmente en el sector industrial<br>- 🧮 Entusiasta de Scikit Learn ( Machine Learning), ingeniería de datos, y de su potencial.<br>- 📫 Me puedes escribir a furtubia@hotmail.com
 </p>
 
 ###
